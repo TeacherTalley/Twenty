@@ -2,3 +2,7 @@
 *.ilk
 *.obj
 *.pdb
+main
+.vscode
+Info.plist
+
